@@ -1,0 +1,19 @@
+.app{
+ border: 1px solid black;
+ margin: 50px;
+}
+.insta h2{
+    color: black;
+    margin: 10px;
+}
+.log input{
+    background-color: blue;
+    color:white;
+    text-align: center;
+    margin-left: 90px;
+    
+    
+}
+.my input{
+    margin-left: 50px;
+}
